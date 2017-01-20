@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Noah Prisament> -- <Lead Designer/Developer>
+
+# THANKS
+
+    <everplans>
+    <Warren Habib>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    React.js, Flux, Node.js, Babel, Webpack, Stylus 
+    Modernizr, Normalize.css
